@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color: yellow;
+}
+
+.table-container {
+    position:relative;
+    overflow: auto;
+    height: 430px;
+    margin: 5px;
+    
+
+    
+}
+body {
+    background-image: url("https://wallpapercave.com/wp/wp1920336.png");
+}
+
+
+img {
+    float: right;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
+}
+
+
+.hidden {
+    display: none;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  #heart {
+    color: grey;  
+    font-size: 50px;
+  }
+  
+  #heart.red {
+    color: red;
+  }
+  

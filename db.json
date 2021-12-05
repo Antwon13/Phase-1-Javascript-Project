@@ -1,0 +1,19 @@
+{
+  "harryPotterList": [
+    {
+      "Details": "Harry Potter<td>human<td>male<td>Gryffindor",
+      "note": "",
+      "id": 1
+    },
+    {
+      "Details": "Harry Potter<td>human<td>male<td>Gryffindor",
+      "note": "",
+      "id": 2
+    },
+    {
+      "Details": "Hermione Granger<td>human<td>female<td>Gryffindor",
+      "note": "",
+      "id": 3
+    }
+  ]
+}
